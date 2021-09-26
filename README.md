@@ -2,4 +2,4 @@
 
 #### Wireframes
 
-![SkillsPageWireframe](/images/SkillsPageWireframe.png "Skills Page Wireframe")
+![SkillsPageWireframe](/images/SkillsWireframe.png "Skills Page Wireframe")
