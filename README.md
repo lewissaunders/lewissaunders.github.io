@@ -1,5 +1,10 @@
 # lewissaunders.github.io
 
+#### Technical Report
+Process
+Progress
+Results
+
 #### Wireframes
 
 ![SkillsPageWireframe](/images/SkillsWireframe.PNG "Skills Page Wireframe")
@@ -15,3 +20,9 @@ The articles page wireframe shows that the layout is the same, however each arti
 ![ProjectsPageWireframe](/images/ProjectsWireframe.PNG "Projects Page Wireframe")
 <br>
 The projects page will have a grid layout initially showing up to 8 icons with the names of the projects in boxs. If the user wishes to find out more about said project, the will be able to click on it, and follow through to a new page. (new pages will not be available until projects have been done).
+
+#### Journal Reflections
+
+##### Lab 3 Reflection
+##### Lab 4 Reflection
+##### Lab 5 Reflection
