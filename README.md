@@ -1,10 +1,10 @@
 # lewissaunders.github.io
 
-#### Technical Report
+#### **Technical Report**
 This assessment required us to create a portfolio page using jekyll and github pages, it required a minimum of three pages, a navigation bar and icon, at the top of every page. We also were required to show the wireframes for each page. (shown below)
 The idea behind this assessment was that it would give us something to work off, if we chose to, as a portfolio that could be given as a card with a website URL.
 
-##### Process
+##### **Process**
 
 Initially, I wanted to start by creating a github pages repo, and working from there, however, at that point I wasn't able to get my head around how to set it up correctly. Mainly because I kept running into issues regarding having jekyll bundles set up on the required repo.
 
@@ -22,11 +22,11 @@ I'll be frank, my applicable HTML and CSS skills aren't where I want them to be,
 
 Following these hiccups, I managed to get a result that i was happy with. The site has three pages, of which, the skills page is the home/landing page, as well as having a navigation bar on the header of each page, as well as an icon (my face).
 
-##### Progress
+##### **Progress**
 
 Regarding progress of this website, I would say it is at 50% of it total potential. There is a lot room for improvement, especially in regards to the projects. The empty white space on some of the pages could be filled with something (potentially an image) and the overall icon shape doesn't sit well with me. However, these are all things that can be added in the future. The time it took to get where i have, is by no means acceptable, however, I know that with repetition, my skills will grow exponentially and allow me to gain the confidence in myself. If I were to continue to develop this page after the assignment is handed in, I would make it so the grid of projects will each link to their own separate page, giving more detail as to what was involved in each. I would also like to spruce up the css quite a bit, and make it more "my own" through different shapes, and color schemes.
 
-##### Results
+##### **Results**
 Overall i feel that while this isn't my best work by far, it's something, and it has the potential to be something even greater if i continue to work on it.
 Below i will give a more broken down explanation of what the different files are, and what they achieve:
 
@@ -36,7 +36,7 @@ The _layouts folder contains the HTML of the 4 different types of page layouts t
 In the _includes folder is the Header, Footer, Head, and other HTML files that make up different parts of the page. I was required to play around with the Header.HTML in order to get the icon configured into the correct location.
 The _sass folder contains all the applicable CSS to this website, i specifically had to play around with the _layouts.scss file in order to get the grid working on the projects page.
 
-#### Wireframes
+#### **Wireframes**
 
 ![SkillsPageWireframe](/images/SkillsWireframe.PNG "Skills Page Wireframe")
 <br>
@@ -52,7 +52,7 @@ The articles page wireframe shows that the layout is the same, however each arti
 <br>
 The projects page will have a grid layout initially showing up to 8 icons with the names of the projects in boxs. If the user wishes to find out more about said project, the will be able to click on it, and follow through to a new page. (new pages will not be available until projects have been done).
 
-#### Journal Reflections
+#### **Journal Reflections**
 
 ##### Lab 3 Reflection
 ##### Lab 4 Reflection
