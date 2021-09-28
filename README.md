@@ -55,6 +55,7 @@ The projects page will have a grid layout initially showing up to 8 icons with t
 ### **Journal Reflections**
 
 #### Lab 3 Reflection
+
 ##### Pros and Cons of using P5.js library
 
 The topic of P5.js was covered in class as well as through this lab, in the classes we went over how you were able to create 3D images or designs through just JavaScript. In the Lab, we created a table talking about the Pro's and cons of using P5.js. What i've learnt about P5.js is pretty simple, it essentially allows you to be less skilled in HTML and CSS while still allowing you to have the capability to create things that would usually be dependant on it. I like to think of P5.js as a skill tree in an MMORPG (Massive Multiplayer Online Role Playing Game(think World of Warcraft)), that when you specialize into it, it can make having a lower skill level in HTML and CSS significantly less straining.
@@ -75,6 +76,8 @@ As mentioned above, if i do choose to nourish my craving for knowledge, it will 
 
 #### Lab 4 Reflection
 
+##### DOM Tree Nodes
+
 Throughout this lab I learnt a lot of different things about the structure of an HTML document, specifically a DOM tree. The repetition of writing out the different elements and Attributes solidified my knowledge of those that i had to type in, for example, I will never forget div, meta, body, label, etc. This lab also allowed me to improve my capability of reading a page of html, and have a better understanding of what i was reading without needing to break everything down. We also went over the different approaches or methods for selecting any element in the HTML DOM Node tree, we listed 3 different approaches, each of which, targeting a different node
 
 Before the lab, my understanding of DOM Node trees was terrible, and it was only by working through it that I understood it. It felt like i was slamming my head against a wall to begin with, but slowly, i started to make progress and was able to figure out how it all fit together. I remember Ali going over the approaches to selecting elements in class (during lockdown), and even that didn't make much sense, but only when i could see the physical layout of the DOM did i start to piece it all together. 
@@ -94,8 +97,6 @@ Repetition is the key to success with me, and being able to see the results of w
 #### Lab 5 Reflection
 
 ##### MVC vs DOM
-
-What have i learnt
 
 Throughout this lab there was a lot of information that i had to figure out, whether that be finding the answers online, or asking questions that would get an answer that i understood, and that Ali was able to understand what I was struggling to communicate. The lab was about the difference between an MVC (Model, View, Controller) and DOM (Document Object Model). Essentially the answer came down to the fact that DOM is MVC minus the Model aspect, and a little of the Controller aspect. Whilst a bit more detailed than that, DOM and the View aspect of the MVC are both used to change something that is visible on the webpage. The reason why controller "technically" could fit in there is because it is what's used to manipulate the data. In this lab we also covered 5 different DOM methods, such as selecting an Element based on the id attribute etc.
 
