@@ -50,7 +50,7 @@ The articles page wireframe shows that the layout is the same, however each arti
 
 ![ProjectsPageWireframe](/images/ProjectsWireframe.PNG "Projects Page Wireframe")
 <br>
-The projects page will have a grid layout initially showing up to 8 icons with the names of the projects in boxs. If the user wishes to find out more about said project, the will be able to click on it, and follow through to a new page. (new pages will not be available until projects have been done).
+The projects page will have a grid layout initially showing up to 8 icons with the names of the projects in boxes. If the user wishes to find out more about said project, the will be able to click on it, and follow through to a new page. (new pages will not be available until projects have been done).
 
 ### **Journal Reflections**
 
@@ -99,29 +99,14 @@ What have i learnt
 
 Throughout this lab there was a lot of information that i had to figure out, whether that be finding the answers online, or asking questions that would get an answer that i understood, and that Ali was able to understand what I was struggling to communicate. The lab was about the difference between an MVC (Model, View, Controller) and DOM (Document Object Model). Essentially the answer came down to the fact that DOM is MVC minus the Model aspect, and a little of the Controller aspect. Whilst a bit more detailed than that, DOM and the View aspect of the MVC are both used to change something that is visible on the webpage. The reason why controller "technically" could fit in there is because it is what's used to manipulate the data. In this lab we also covered 5 different DOM methods, such as selecting an Element based on the id attribute etc.
 
-What do i know now that i didn't know before?
+We had previous discussed DOM Tree Nodes in Lab before this, which allowed us to have an understanding of how those worked. MVC however, was completely new and foreign. After some research and questions, it became apparent that while they both are separate, they do hold similarities. From this lab i gained a new understanding of how two things which are different looking from the outside, can be very similar when you explore what they each actually do. I believe we learnt this because they are both tools that can be used to changed things on a webpage, and we are in fact in the WEB503 class.
 
-We had previous discussed DOM Tree Nodes in Lab before this, which allowed us to have an understanding of how those worked. MVC however, was completely new and foreign. After some research and questions, it became apparent that while they both are separate, they do hold similarities.
+The real life applications for this specifically i cannot think of, off the top of my head, but the thought process behind setting two things up next to one another and comparing the differences and similarities will no doubt be a skill that will be beneficial in any scenario of work.
 
-What new understanding have i gained?
+As mentioned above, I struggled to get my head around this until i was able to communicate what part was giving me trouble to understand. I have to thank Ali for being able to give an answer in a way that i was able to understand (no fault on his end, I just struggle with processing certain things). Essentially hammering in that what i was thinking at the time (these two things are very similar) and getting that confirmation gave me the patience to carry on and keep learning about it.
 
-From this lab i gained a new understanding of how two things w
+Like all the previous journals, i will be able to refer to my labs as an initial source of information, and from there I will be able to figure out what i want to know, or what im lacking knowledge in. After which, using the resources around me such as YouTube or forums to help.
 
-Why have i learnt this?
+##### Conclusion
 
-
-
-What are the real life applications?
-
-
-
-How have i learnt this?
-
-
-
-What will i do to remember this learnings?
-
-
-
-What will i do to fill in an haps in my understanding?
-
+With this reflection I have discovered that the knowledge i had at the start of this course pales in comparison to what i know now, and that whilst i give myself a hard time, its usually only one or two steps that are giving me grief, and once i get past those barriers, its smooth sailing. I know that the knowledge i have gained is impacting the way i approach things and also the consistent issues im encountering are only going to make me better.
