@@ -56,23 +56,22 @@ The projects page will have a grid layout initially showing up to 8 icons with t
 
 #### Lab 3 Reflection
 ##### Pros and Cons of using P5.js library
-What have i learnt
 
-What do i know now that i didn't know before?
+The topic of P5.js was covered in class as well as through this lab, in the classes we went over how you were able to create 3D images or designs through just JavaScript. In the Lab, we created a table talking about the Pro's and cons of using P5.js. What i've learnt about P5.js is pretty simple, it essentially allows you to be less skilled in HTML and CSS while still allowing you to have the capability to create things that would usually be dependant on it. I like to think of P5.js as a skill tree in an MMORPG (Massive Multiplayer Online Role Playing Game(think World of Warcraft)), that when you specialize into it, it can make having a lower skill level in HTML and CSS significantly less straining.
 
-What new understanding have i gained?
+The biggest thing that i now know compared to before is that P5.js exists, while i don't feel confident in using it, it is something that does interest me, as i find it intriguing that you can use simply JavaScript to create some amazing images/designs. 
 
-Why have i learnt this?
+The fact that there is something out there that can essentially take the roles of HTML CSS and JavaScript and turn it all into one thing gives me a new understanding of how amazing libraries are, there is so much content that could be created, and shared with others.
 
-What is the point?
+Im not entirely sure as to why we have learnt this, but i know that we wouldn't be taught it unless it was something that would be beneficial to us at some point. Even if it isn't, it gives us the opportunity to carry on and learn more about it if it's something that interests us.
 
-What are the real life applications?
+I would say that the real life application is dependant on whether or not you get the opportunity to use it in the role you take after study. Even then, from the reviews I have read about it, it's base skill requirement is very low, but its skill ceiling is also high, which usually isn't the case. Essentially it truly is dependant one what the task at hand is, and what are the requirements/barriers to using it.
 
-How have i learnt this?
+The way i learnt about P5.js was through Ali's classes, where we created 3D models that were capable of moving in a browser. Outside of class, i did a decent amount of reading about its difficulty (or lack there of) through review sites, or if there was a forum where someone was asking for help, there seemed to be a lot of people willing to help due to it being a product of a previous software/library.
 
-What will i do to remember this learnings?
+Having the lab will help serve as a reminder of what it can do, and what is needed to perform correctly, if i wish to continue learning, it will most likely be through the several forums available, and through YouTube videos. 
 
-What will i do to fill in an haps in my understanding?
+As mentioned above, if i do choose to nourish my craving for knowledge, it will be most likely be done through the media of video. The reasoning behind this is that there is likely to be many different teaching styles available, which can help me in the long run. The reason behind liking videos is that i can take it at my own pace, and pause it, rewind and go over it again if i miss something.
 
 #### Lab 4 Reflection
 
@@ -93,20 +92,36 @@ In order to remember what i learnt, i am able to look over different HTML pages 
 Repetition is the key to success with me, and being able to see the results of what i type. in saying that, i think that my knowledge of how to write up, and produce a DOM Tree is pretty good, and won't need much more filling in regards to gaps (that i know of). The approaches however, will come with practice and use in different situations. Which i feel hasn't had a lot of practical uses as of yet.
 
 #### Lab 5 Reflection
+
+##### MVC vs DOM
+
 ##### What have i learnt
+
+
 
 ##### What do i know now that i didn't know before?
 
+
+
 ##### What new understanding have i gained?
+
+
 
 ##### Why have i learnt this?
 
-##### What is the point?
+
 
 ##### What are the real life applications?
 
+
+
 ##### How have i learnt this?
+
+
 
 ##### What will i do to remember this learnings?
 
+
+
 ##### What will i do to fill in an haps in my understanding?
+
