@@ -55,5 +55,58 @@ The projects page will have a grid layout initially showing up to 8 icons with t
 ### **Journal Reflections**
 
 #### Lab 3 Reflection
+##### Pros and Cons of using P5.js library
+What have i learnt
+
+What do i know now that i didn't know before?
+
+What new understanding have i gained?
+
+Why have i learnt this?
+
+What is the point?
+
+What are the real life applications?
+
+How have i learnt this?
+
+What will i do to remember this learnings?
+
+What will i do to fill in an haps in my understanding?
+
 #### Lab 4 Reflection
+
+Throughout this lab I learnt a lot of different things about the structure of an HTML document, specifically a DOM tree. The repetition of writing out the different elements and Attributes solidified my knowledge of those that i had to type in, for example, I will never forget div, meta, body, label, etc. This lab also allowed me to improve my capability of reading a page of html, and have a better understanding of what i was reading without needing to break everything down. We also went over the different approaches or methods for selecting any element in the HTML DOM Node tree, we listed 3 different approaches, each of which, targeting a different node
+
+Before the lab, my understanding of DOM Node trees was terrible, and it was only by working through it that I understood it. It felt like i was slamming my head against a wall to begin with, but slowly, i started to make progress and was able to figure out how it all fit together. I remember Ali going over the approaches to selecting elements in class (during lockdown), and even that didn't make much sense, but only when i could see the physical layout of the DOM did i start to piece it all together. 
+
+My understanding of DOM trees has gone through the roof compared to when i started the topic, there is always room for improvement however, but if you asked to me make another DOM tree again, i feel that i would be able to do it in under 1/10th of the time it took me. The understanding of the different approaches however is still something that im not 100% confident with, more specifically when or where to apply them, I do believe however that this is something that will most likely be used in the 3rd assignment for this class (WEB503).
+
+As mentioned before i believe that we have been taught the approaches as it will be applicable to the 3rd assignment most likely, and also for any further study we do relating to web design, the DOM tree however i feel is more a tool to help us view the HTML in different ways. This is especially helpful for those that need to see things in multiple ways to understand (Myself).
+
+The real life applications are odd, for example, i can now inspect most web pages and have a read of the HTML and mentally create a DOM tree, which allows me to understand what im seeing quicker, and allows to me to think of how i could change it. The real life applications of the approaches however is most likely going to be for whenever you want to integrate HTML and JavaScript. 
+
+The learning of this topic wasn't easy, and it felt monotonous, up into i made a break through in regards to the mental block, but it really is just a matter of sticking with it until something clicks. I did take many breaks in between attempts as well, so that i was coming back to it with a fresh mindset. I tried to use Youtube videos to also try to explain it in a way that hadn't been already. I know that with the way i like to learn it can be very hard to get a point through, until it does, and most of the time its just a repetition issue. However when it does, im usually capable of replicating the skill necessary.
+
+In order to remember what i learnt, i am able to look over different HTML pages on the web through the inspect tool, which i can then look and see how they've done things, which in turns gives me ideas for future projects etc. Regarding the different approaches to targeting a specific DOM tree node, i do have the journal i wrote for the lab which does have a couple of different examples. From there i will most likely be able to pick up on what ive forgotten, as well as have an understanding of what to look up if i get confused.
+
+Repetition is the key to success with me, and being able to see the results of what i type. in saying that, i think that my knowledge of how to write up, and produce a DOM Tree is pretty good, and won't need much more filling in regards to gaps (that i know of). The approaches however, will come with practice and use in different situations. Which i feel hasn't had a lot of practical uses as of yet.
+
 #### Lab 5 Reflection
+##### What have i learnt
+
+##### What do i know now that i didn't know before?
+
+##### What new understanding have i gained?
+
+##### Why have i learnt this?
+
+##### What is the point?
+
+##### What are the real life applications?
+
+##### How have i learnt this?
+
+##### What will i do to remember this learnings?
+
+##### What will i do to fill in an haps in my understanding?
