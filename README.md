@@ -95,33 +95,33 @@ Repetition is the key to success with me, and being able to see the results of w
 
 ##### MVC vs DOM
 
-##### What have i learnt
+What have i learnt
+
+Throughout this lab there was a lot of information that i had to figure out, whether that be finding the answers online, or asking questions that would get an answer that i understood, and that Ali was able to understand what I was struggling to communicate. The lab was about the difference between an MVC (Model, View, Controller) and DOM (Document Object Model). Essentially the answer came down to the fact that DOM is MVC minus the Model aspect, and a little of the Controller aspect. Whilst a bit more detailed than that, DOM and the View aspect of the MVC are both used to change something that is visible on the webpage. The reason why controller "technically" could fit in there is because it is what's used to manipulate the data. In this lab we also covered 5 different DOM methods, such as selecting an Element based on the id attribute etc.
+
+What do i know now that i didn't know before?
+
+We had previous discussed DOM Tree Nodes in Lab before this, which allowed us to have an understanding of how those worked. MVC however, was completely new and foreign. After some research and questions, it became apparent that while they both are separate, they do hold similarities.
+
+What new understanding have i gained?
+
+From this lab i gained a new understanding of how two things w
+
+Why have i learnt this?
 
 
 
-##### What do i know now that i didn't know before?
+What are the real life applications?
 
 
 
-##### What new understanding have i gained?
+How have i learnt this?
 
 
 
-##### Why have i learnt this?
+What will i do to remember this learnings?
 
 
 
-##### What are the real life applications?
-
-
-
-##### How have i learnt this?
-
-
-
-##### What will i do to remember this learnings?
-
-
-
-##### What will i do to fill in an haps in my understanding?
+What will i do to fill in an haps in my understanding?
 
